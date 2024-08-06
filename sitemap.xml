@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://pfaj.github.io/ajimenez-site/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://pfaj.github.io/ajimenez-site/categories/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/hugo/</loc>
+    <loc>https://pfaj.github.io/ajimenez-site/categories/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://pfaj.github.io/ajimenez-site/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2014/09/testing-a-post-on-this-site/</loc>
+    <loc>https://pfaj.github.io/ajimenez-site/posts/2014/09/testing-a-post-on-this-site/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://pfaj.github.io/ajimenez-site/about/</loc>
   </url><url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://pfaj.github.io/ajimenez-site/series/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://pfaj.github.io/ajimenez-site/tags/</loc>
   </url>
 </urlset>
