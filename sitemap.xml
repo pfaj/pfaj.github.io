@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pfaj.github.io/</loc>
+    <loc>http://ajimenez.me/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pfaj.github.io/categories/</loc>
+    <loc>http://ajimenez.me/categories/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pfaj.github.io/categories/hugo/</loc>
+    <loc>http://ajimenez.me/categories/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pfaj.github.io/posts/</loc>
+    <loc>http://ajimenez.me/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pfaj.github.io/posts/2014/09/testing-a-post-on-this-site/</loc>
+    <loc>http://ajimenez.me/posts/2014/09/testing-a-post-on-this-site/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pfaj.github.io/about/</loc>
+    <loc>http://ajimenez.me/about/</loc>
   </url><url>
-    <loc>https://pfaj.github.io/series/</loc>
+    <loc>http://ajimenez.me/series/</loc>
   </url><url>
-    <loc>https://pfaj.github.io/tags/</loc>
+    <loc>http://ajimenez.me/tags/</loc>
   </url>
 </urlset>
