@@ -22,10 +22,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ajimenez.me/about/</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <description>Aidan Jimenez 786-717-0967 | ajimenez4@elon.edu | ajimenez.me&#xA;Projects Linux Desktop Shell | QML, Javascript&#xA;Created a desktop shell which allowed users to have a UI in Linux AWS Automation | Java, AWS, API&#xA;Created an API using Spring Boot which would make calls to create an EC2 instance connected to a VPC Banana Grab | C#&#xA;Developed the movement system for the first person controller Technical Skills Languages: Java, Python, AWS, QML, C#, JavaScript</description>
 =======
       <description>Aidan Jimenez Projects Linux Desktop Shell | QML, Javascript&#xA;Created a desktop shell which allowed users to have a UI in Linux AWS Automation | Java, AWS, API&#xA;Created an API using Spring Boot which would make calls to create an EC2 instance connected to a VPC Banana Grab | C#&#xA;Developed the movement system for the first person controller Technical Skills Languages: Java, Python, AWS, QML, C#, JavaScript&#xA;Technologies: Linux, Git, Vim, Docker, Bash, API, Postman</description>
 >>>>>>> c950fe9 (updated about page)
+=======
+      <description>Aidan Jimenez Projects Linux Desktop Shell | QML, Javascript&#xA;Created a desktop shell which allowed users to have a UI in Linux AWS Automation | Java, AWS, API&#xA;Created an API using Spring Boot which would make calls to create an EC2 instance connected to a VPC Banana Grab | C#&#xA;Developed the movement system for the first person controller Technical Skills Languages: Java, Python, AWS, QML, C#, JavaScript&#xA;Technologies: Linux, Git, Vim, Docker, Bash, API, Postman</description>
+>>>>>>> refs/remotes/origin/main
     </item>
   </channel>
 </rss>
