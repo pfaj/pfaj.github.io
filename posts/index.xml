@@ -15,14 +15,60 @@
             <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
             
             <guid>https://ajimenez.me/posts/2024/08/how-to-make-a-website-for-free-using-student-resources/</guid>
-            <description>Requirements Student Email Account Github Student Enterprise Pack Step 1 First things first, you need to be a student (I only know that this works for college students). If you were able to fullfill that requirement then we can move on.</description>
-            <content type="html"><![CDATA[<h3 id="requirements">Requirements</h3>
+            <description>Student Account Setup Prerequisites
+Before we begin, please ensure that you meet the following requirements: be a college student (this guide is tailored for students). If you fulfill this requirement, we can proceed.
+Step 1: GitHub Education To access GitHub Pro features, including Copilot and Codespaces, follow these steps:
+Visit the GitHub Education website. Fill out the application form. Wait a couple of days for your application to be reviewed. If your application is accepted, you&amp;rsquo;ll gain access to GitHub Pro features, including:</description>
+            <content type="html"><![CDATA[<h3 id="student-account-setup">Student Account Setup</h3>
+<p><strong>Prerequisites</strong></p>
+<p>Before we begin, please ensure that you meet the following requirements: be a college student (this guide is tailored for
+students). If you fulfill this requirement, we can proceed.</p>
+<h3 id="step-1-github-education">Step 1: GitHub Education</h3>
+<p>To access GitHub Pro features, including Copilot and Codespaces, follow these steps:</p>
+<ol>
+<li>Visit the <a href="https://github.com/education/students">GitHub Education</a> website.</li>
+<li>Fill out the application form.</li>
+<li>Wait a couple of days for your application to be reviewed.</li>
+</ol>
+<p>If your application is accepted, you&rsquo;ll gain access to GitHub Pro features, including:</p>
 <ul>
-<li>Student Email Account</li>
-<li>Github Student Enterprise Pack</li>
+<li>GitHub Pro</li>
+<li>Copilot</li>
+<li>Codespaces</li>
 </ul>
-<h3 id="step-1">Step 1</h3>
-<p>First things first, you need to be a student (I only know that this works for college students). If you were able to fullfill that requirement then we can move on.</p>
+<h3 id="step-2-set-up-your-website-on-github">Step 2: Set Up Your Website on GitHub</h3>
+<p>Once you&rsquo;ve gained access to GitHub Education, follow these steps:</p>
+<ol>
+<li>Create a new repository or upload an existing website to a new GitHub repo.</li>
+<li>Name the repository in the format <code>{username}.github.io</code>.</li>
+<li>Navigate to the &ldquo;Pages&rdquo; section in your repository settings.</li>
+<li>Choose the branch for your website.</li>
+</ol>
+<p>Your website should now be published on GitHub Pages.</p>
+<h3 id="step-3-domain-setup-with-namecheap">Step 3: Domain Setup with Namecheap</h3>
+<p>To obtain a free domain, follow these steps:</p>
+<ol>
+<li>Visit the <a href="https://nc.me">Namecheap student website</a>.</li>
+<li>Log in to your account and connect your GitHub account.</li>
+<li>Choose your desired domain (the <code>.me</code> TLD is provided for free).</li>
+</ol>
+<p><strong>Note:</strong> You can choose to pay for a domain with a different top-level domain (TLD). Such as <code>.com</code>, <code>.net</code>, or <code>.org</code>.</p>
+<h3 id="step-4-ssl-certificate-setup-with-cloudflare">Step 4: SSL Certificate Setup with Cloudflare</h3>
+<p>To obtain an SSL certificate, follow these steps:</p>
+<ol>
+<li>Create a <a href="https://www.cloudflare.com/application-services/products/ssl/">Cloudflare</a> account.</li>
+<li>Navigate to the &ldquo;Websites&rdquo; section in your dashboard.</li>
+<li>Add your domain and choose to add an SSL certificate.</li>
+</ol>
+<p><strong>Note:</strong> Follow the instructions on the website to complete this process.</p>
+<h3 id="step-5-finalize-your-setup">Step 5: Finalize Your Setup</h3>
+<p>After completing all the above steps, follow these final steps:</p>
+<ol>
+<li>Return to your GitHub repository settings.</li>
+<li>Navigate to the &ldquo;Pages&rdquo; section.</li>
+<li>Add your domain in the &ldquo;Domain&rdquo; section.</li>
+<li>Wait for verification and you&rsquo;re done!</li>
+</ol>
 ]]></content>
         </item>
         
