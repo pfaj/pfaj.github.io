@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Aidan Jimenez&#39;s Blog and Resume</title>
+        <title>Posts on Aidan Jimenez&#39;s Blog</title>
         <link>https://ajimenez.me/posts/</link>
-        <description>Recent content in Posts on Aidan Jimenez&#39;s Blog and Resume</description>
+        <description>Recent content in Posts on Aidan Jimenez&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
@@ -11,10 +11,10 @@
         
         <item>
             <title>How to Make a Website for Free Using Student Resources</title>
-            <link>https://ajimenez.me/posts/2024/08/how-to-make-a-website-for-free-using-student-resources/</link>
+            <link>https://ajimenez.me/posts/how-to-make-a-website-for-free-using-student-resources/</link>
             <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
             
-            <guid>https://ajimenez.me/posts/2024/08/how-to-make-a-website-for-free-using-student-resources/</guid>
+            <guid>https://ajimenez.me/posts/how-to-make-a-website-for-free-using-student-resources/</guid>
             <description>Student Account Setup Prerequisites
 Before we begin, please ensure that you meet the following requirements: be a college student (this guide is tailored for students). If you fulfill this requirement, we can proceed.
 Step 1: GitHub Education To access GitHub Pro features, including Copilot and Codespaces, follow these steps:
@@ -69,20 +69,6 @@ students). If you fulfill this requirement, we can proceed.</p>
 <li>Add your domain in the &ldquo;Domain&rdquo; section.</li>
 <li>Wait for verification and you&rsquo;re done!</li>
 </ol>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Testing a post on this site</title>
-            <link>https://ajimenez.me/posts/2014/09/testing-a-post-on-this-site/</link>
-            <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-            
-            <guid>https://ajimenez.me/posts/2014/09/testing-a-post-on-this-site/</guid>
-            <description>Hello World! This is my first post on my website oio kkk</description>
-            <content type="html"><![CDATA[<h1 id="hello-world">Hello World!</h1>
-<p>This is my first post on my website
-oio
-kkk</p>
 ]]></content>
         </item>
         
