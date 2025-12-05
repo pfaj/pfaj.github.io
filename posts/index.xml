@@ -1,84 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on Aidan Jimenez&#39;s Blog</title>
-        <link>https://ajimenez.me/posts/</link>
-        <description>Recent content in Posts on Aidan Jimenez&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://ajimenez.me/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>How to Make a Website for Free Using Student Resources</title>
-            <link>https://ajimenez.me/posts/how-to-make-a-website-for-free-using-student-resources/</link>
-            <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-            
-            <guid>https://ajimenez.me/posts/how-to-make-a-website-for-free-using-student-resources/</guid>
-            <description>&lt;h3 id=&#34;student-account-setup&#34;&gt;Student Account Setup&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Before we begin, please ensure that you meet the following requirements: be a college student (this guide is tailored for
-students). If you fulfill this requirement, we can proceed.&lt;/p&gt;
-&lt;h3 id=&#34;step-1-github-education&#34;&gt;Step 1: GitHub Education&lt;/h3&gt;
-&lt;p&gt;To access GitHub Pro features, including Copilot and Codespaces, follow these steps:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Visit the &lt;a href=&#34;https://github.com/education/students&#34;&gt;GitHub Education&lt;/a&gt; website.&lt;/li&gt;
-&lt;li&gt;Fill out the application form.&lt;/li&gt;
-&lt;li&gt;Wait a couple of days for your application to be reviewed.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;If your application is accepted, you&amp;rsquo;ll gain access to GitHub Pro features, including:&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<h3 id="student-account-setup">Student Account Setup</h3>
-<p><strong>Prerequisites</strong></p>
-<p>Before we begin, please ensure that you meet the following requirements: be a college student (this guide is tailored for
-students). If you fulfill this requirement, we can proceed.</p>
-<h3 id="step-1-github-education">Step 1: GitHub Education</h3>
-<p>To access GitHub Pro features, including Copilot and Codespaces, follow these steps:</p>
-<ol>
-<li>Visit the <a href="https://github.com/education/students">GitHub Education</a> website.</li>
-<li>Fill out the application form.</li>
-<li>Wait a couple of days for your application to be reviewed.</li>
-</ol>
-<p>If your application is accepted, you&rsquo;ll gain access to GitHub Pro features, including:</p>
-<ul>
-<li>GitHub Pro</li>
-<li>Copilot</li>
-<li>Codespaces</li>
-</ul>
-<h3 id="step-2-set-up-your-website-on-github">Step 2: Set Up Your Website on GitHub</h3>
-<p>Once you&rsquo;ve gained access to GitHub Education, follow these steps:</p>
-<ol>
-<li>Create a new repository or upload an existing website to a new GitHub repository.</li>
-<li>Name the repository in the format <code>{username}.github.io</code>.</li>
-<li>Navigate to the &ldquo;Pages&rdquo; section in your repository settings.</li>
-<li>Choose the branch for your website.</li>
-</ol>
-<p>Your website should now be published on GitHub Pages.</p>
-<h3 id="step-3-domain-setup-with-namecheap">Step 3: Domain Setup with Namecheap</h3>
-<p>To obtain a free domain, follow these steps:</p>
-<ol>
-<li>Visit the <a href="https://nc.me">Namecheap student website</a>.</li>
-<li>Log in to your account and connect your GitHub account.</li>
-<li>Choose your desired domain (the <code>.me</code> TLD is provided for free).</li>
-</ol>
-<p><strong>Note:</strong> You can choose to pay for a domain with a different top-level domain (TLD), such as <code>.com</code>, <code>.net</code>, or <code>.org</code>.</p>
-<h3 id="step-4-ssl-certificate-setup-with-cloudflare">Step 4: SSL Certificate Setup with Cloudflare</h3>
-<p>To obtain an SSL certificate, follow these steps:</p>
-<ol>
-<li>Create a <a href="https://www.cloudflare.com/application-services/products/ssl/">Cloudflare</a> account.</li>
-<li>Navigate to the &ldquo;Websites&rdquo; section in your dashboard.</li>
-<li>Add your domain and choose to add an SSL certificate.</li>
-</ol>
-<p><strong>Note:</strong> Follow the instructions on the website to complete this process.</p>
-<h3 id="step-5-finalize-your-setup">Step 5: Finalize Your Setup</h3>
-<p>After completing all the above steps, follow these final steps:</p>
-<ol>
-<li>Return to your GitHub repository settings.</li>
-<li>Navigate to the &ldquo;Pages&rdquo; section.</li>
-<li>Add your domain in the &ldquo;Domain&rdquo; section.</li>
-<li>Wait for verification and you&rsquo;re done!</li>
-</ol>
-]]></content>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Posts on Aidan Jimenez</title>
+    <link>https://ajimenez.me/posts/</link>
+    <description>Recent content in Posts on Aidan Jimenez</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ajimenez.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Make a Website for Free Using Student Resources</title>
+      <link>https://ajimenez.me/posts/how-to-make-a-website-for-free-using-student-resources/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ajimenez.me/posts/how-to-make-a-website-for-free-using-student-resources/</guid>
+      <description>&lt;h3 id=&#34;student-account-setup&#34;&gt;Student Account Setup&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Before we begin, please ensure that you meet the following requirements: be a college student (this guide is tailored for&#xA;students). If you fulfill this requirement, we can proceed.&lt;/p&gt;&#xA;&lt;h3 id=&#34;step-1-github-education&#34;&gt;Step 1: GitHub Education&lt;/h3&gt;&#xA;&lt;p&gt;To access GitHub Pro features, including Copilot and Codespaces, follow these steps:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Visit the &lt;a href=&#34;https://github.com/education/students&#34;&gt;GitHub Education&lt;/a&gt; website.&lt;/li&gt;&#xA;&lt;li&gt;Fill out the application form.&lt;/li&gt;&#xA;&lt;li&gt;Wait a couple of days for your application to be reviewed.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;If your application is accepted, you&amp;rsquo;ll gain access to GitHub Pro features, including:&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>
