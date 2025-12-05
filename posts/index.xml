@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Aidan Jimenez</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://ajimenez.me/posts/</link>
         <description>Recent content in Posts on Aidan Jimenez</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
-        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ajimenez.me/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>How to Make a Website for Free Using Student Resources</title>
-            <link>http://localhost:1313/posts/how-to-make-a-website-for-free-using-student-resources/</link>
+            <link>https://ajimenez.me/posts/how-to-make-a-website-for-free-using-student-resources/</link>
             <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/how-to-make-a-website-for-free-using-student-resources/</guid>
+            <guid>https://ajimenez.me/posts/how-to-make-a-website-for-free-using-student-resources/</guid>
             <description>&lt;h3 id=&#34;student-account-setup&#34;&gt;Student Account Setup&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Before we begin, please ensure that you meet the following requirements: be a college student (this guide is tailored for
