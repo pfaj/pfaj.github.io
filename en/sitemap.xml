@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ajimenez.me/posts/how-to-make-a-website-for-free-using-student-resources/</loc>
+    <loc>http://localhost:1313/posts/how-to-make-a-website-for-free-using-student-resources/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ajimenez.me/</loc>
-    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ajimenez.me/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ajimenez.me/"
-                />
-  </url><url>
-    <loc>https://ajimenez.me/tags/free/</loc>
-    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ajimenez.me/series/free-stuff/</loc>
-    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ajimenez.me/posts/</loc>
-    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ajimenez.me/series/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ajimenez.me/fr/series/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ajimenez.me/series/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://ajimenez.me/tags/students/</loc>
+    <loc>http://localhost:1313/tags/free/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ajimenez.me/tags/</loc>
+    <loc>http://localhost:1313/series/free-stuff/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ajimenez.me/fr/tags/"
+                href="http://localhost:1313/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ajimenez.me/tags/"
+                href="http://localhost:1313/series/"
                 />
   </url><url>
-    <loc>https://ajimenez.me/tags/web-development/</loc>
+    <loc>http://localhost:1313/tags/students/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ajimenez.me/about/</loc>
-  </url><url>
-    <loc>https://ajimenez.me/categories/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ajimenez.me/fr/categories/"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ajimenez.me/categories/"
+                href="http://localhost:1313/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/web-development/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/"
                 />
   </url>
 </urlset>
