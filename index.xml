@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ajimenez.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Made a Selfhosted Server</title>
+      <link>https://ajimenez.me/posts/i-made-a-selfhosted-server/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ajimenez.me/posts/i-made-a-selfhosted-server/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;I made a server recently and I thought that I would share. The hardware of&#xA;the server is an old Dell Optiplex that I was gifted, the specs are:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CPU: Intel i7-7700&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Memory: 16GB DDR4&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Storage: 256GB NVME &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;OS&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; &amp;amp; 512GB SATA &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;Data&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;OS: NixOS &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;the best OS&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;My OS of choice was NixOS due to its modularity and ease of use when spinning&#xA;up services and I already use it for my personal devices so it just made sense.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How to Make a Website for Free Using Student Resources</title>
       <link>https://ajimenez.me/posts/how-to-make-a-website-for-free-using-student-resources/</link>

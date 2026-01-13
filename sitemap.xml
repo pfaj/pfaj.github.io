@@ -2,11 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ajimenez.me/posts/i-made-a-selfhosted-server/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ajimenez.me/posts/how-to-make-a-website-for-free-using-student-resources/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ajimenez.me/</loc>
-    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ajimenez.me/posts/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ajimenez.me/series/selfhost/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ajimenez.me/tags/selfhost/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ajimenez.me/series/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ajimenez.me/tags/server/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ajimenez.me/tags/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ajimenez.me/tags/free/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
@@ -14,16 +35,7 @@
     <loc>https://ajimenez.me/series/free-stuff/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ajimenez.me/posts/</loc>
-    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ajimenez.me/series/</loc>
-    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ajimenez.me/tags/students/</loc>
-    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ajimenez.me/tags/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ajimenez.me/tags/web-development/</loc>
