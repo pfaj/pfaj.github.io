@@ -6,8 +6,87 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://ajimenez.me/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>I Made a Selfhosted Server</title>
+            <link>https://ajimenez.me/posts/i-made-a-selfhosted-server/</link>
+            <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+            
+            <guid>https://ajimenez.me/posts/i-made-a-selfhosted-server/</guid>
+            <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;I made a server recently and I thought that I would share. The hardware of
+the server is an old Dell Optiplex that I was gifted, the specs are:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CPU: Intel i7-7700
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Memory: 16GB DDR4
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Storage: 256GB NVME &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;OS&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; &amp;amp; 512GB SATA &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;Data&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;OS: NixOS &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;the best OS&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;My OS of choice was NixOS due to its modularity and ease of use when spinning
+up services and I already use it for my personal devices so it just made sense.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h2 id="intro">Intro</h2>
+<p>I made a server recently and I thought that I would share. The hardware of
+the server is an old Dell Optiplex that I was gifted, the specs are:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>CPU: Intel i7-7700
+</span></span><span style="display:flex;"><span>Memory: 16GB DDR4
+</span></span><span style="display:flex;"><span>Storage: 256GB NVME <span style="color:#f92672">(</span>OS<span style="color:#f92672">)</span> &amp; 512GB SATA <span style="color:#f92672">(</span>Data<span style="color:#f92672">)</span>
+</span></span><span style="display:flex;"><span>OS: NixOS <span style="color:#f92672">(</span>the best OS<span style="color:#f92672">)</span>
+</span></span></code></pre></div><p>My OS of choice was NixOS due to its modularity and ease of use when spinning
+up services and I already use it for my personal devices so it just made sense.</p>
+<p>I do have a repo that contains the config for the server and all the modules
+that I have configured linked <a href="https://github.com/pfaj/nix-server-config">here</a>
+and if you are interested in some general use configs I have another repo
+<a href="https://github.com/pfaj/nixos-config">here</a>.</p>
+<p>My server is still in an infant state as I learn more about hosting, DNS, and
+just the overall concepts of running a server. I will say it has been rewarding to
+spin up some of these services and use them in my day to day.</p>
+<h2 id="services">Services</h2>
+<p>Currently I only use a couple services on a daily basis. Those are:</p>
+<ul>
+<li><a href="https://caddyserver.com/">ACME</a> (Certificate Management)</li>
+<li><a href="https://caddyserver.com/">Caddy</a> (Reverse Proxy)</li>
+<li><a href="https://cryptpad.org/">Cryptpad</a> (Office Suite)</li>
+<li><a href="https://minecraft.net">Minecraft</a> (Required for server to run)</li>
+<li><a href="https://immich.app/">Immich</a> (Images)</li>
+<li><a href="https://docs.searxng.org/">SearXNG</a> (Search Engine)</li>
+</ul>
+<p>One of the most impactful for my day to day has been SearXNG, it has allowed me
+to search without having the AI generated response that blocks the sites that
+I am looking for and overall removes a lot of bloat that other search engines
+have.</p>
+<p>I started using these services through Tailscale so that I can focus on
+just getting the services running before I point them to a subdomain and open
+them up to the internet. For a while my process on my devices would be to
+connect to the VPN to then access the service or server which became tedious.
+So once I was able to get these services running for a couple months with no
+interruptions I decided to point to subdomains using Caddy and ACME so that I
+do not have to rely on Tailscale so much especially from my phone. I know that
+there are some security risks involved but it has been a good learning
+experience to understand how DNS and Reverse Proxies work. Additionally, I use
+key-based SSH to do maintenance on the server whether it be updates or trying
+to resolve an issue with one of these services.</p>
+<h2 id="why-nixos">Why NixOS</h2>
+<p>I chose NixOS for the reason previously mentioned for one. I already had a
+working config that I could modify for this case, but there&rsquo;s more to it. To me
+the idea of being reproducible is great, the amount of times that I have broken
+a Linux system because of the wrong command or a new update has taught me that
+it&rsquo;s great to have an easy way to restore your systems last working state.
+NixOS has proved to be great for that allowing me to jump back to previous
+generations and the ability to pickup the config and move it to another device
+with little to no issues and have it set up exactly the same as the other device
+if needed.</p>
+<h2 id="future-plans">Future Plans</h2>
+<p>In the future I would like to target some of the hardware such as my storage
+and setup RAID as currently I do not have redundancy. It does leave a slight
+worry of data loss, but if that&rsquo;s what happens I will figure it out then. With
+the current rise in hardware prices it does not make sense to try and pickup
+those parts for an absurd price (thanks AI).</p>
+<h2 id="final-notes">Final Notes</h2>
+<p>This project has been really fun to work on and has taught me about managing a
+server and also using NixOS. If you want to try one of my services you can go
+to <a href="https://search.ajimenez.me/">https://search.ajimenez.me/</a> which will take you to SearXNG.</p>
+]]></content>
+        </item>
         
         <item>
             <title>How to Make a Website for Free Using Student Resources</title>
